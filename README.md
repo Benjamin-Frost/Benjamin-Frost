@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src = "https://user-images.githubusercontent.com/58258541/138322090-6f9dd36c-84f8-41c0-99f7-dec10fb58c33.gif" width = 30px>, I'm Benjamin</h1>
+<h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/58258541/138322090-6f9dd36c-84f8-41c0-99f7-dec10fb58c33.gif" width="30">, I'm Benjamin</h1>
 
 ## 📖 About me
 
